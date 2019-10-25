@@ -195,13 +195,13 @@ img {
     display: none;
   }
 }
-.navigation-bar2 a {
+.navigation-bar2 .links {
   color: #6D3131;
   padding: 0% 3%;
   text-decoration: none;
   font-size: 1.5rem;
 }
-.navigation-bar2 a:hover {
+.navigation-bar2 .links:hover {
   background-color: #E1F2F6;
   font-weight: bolder;
   text-decoration: none;
